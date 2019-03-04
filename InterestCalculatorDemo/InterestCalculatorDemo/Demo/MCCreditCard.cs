@@ -5,10 +5,6 @@ namespace InterestCalculatorDemo
     {
         private long balance;
 
-        public MCCreditCard()
-        {
-        }
-
         public MCCreditCard(long balance)
         {
             this.Balance = balance;

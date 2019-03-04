@@ -5,10 +5,6 @@ namespace InterestCalculatorDemo
     {
         private long balance;
 
-        public DiscoverCreditCard()
-        {
-        }
-
         public DiscoverCreditCard(long balance)
         {
             this.Balance = balance;

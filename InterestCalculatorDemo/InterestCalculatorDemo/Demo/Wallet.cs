@@ -7,10 +7,6 @@ namespace InterestCalculatorDemo
     {
         public ICollection<ICreditCard> creditCards;
 
-        public Wallet()
-        {
-        }
-
         public Wallet(ICollection<ICreditCard> creditCards)
         {
             this.creditCards = creditCards;

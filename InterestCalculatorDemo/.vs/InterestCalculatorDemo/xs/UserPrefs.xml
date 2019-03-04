@@ -10,7 +10,7 @@
       <File FileName="InterestCalculatorDemo/Demo/MCCreditCard.cs" Line="1" Column="1" />
       <File FileName="InterestCalculatorDemo/Demo/DiscoverCreditCard.cs" Line="10" Column="10" />
       <File FileName="InterestCalculatorDemo/Tests/PersonTest.cs" Line="11" Column="21" />
-      <File FileName="InterestCalculatorDemo/Demo/Program.cs" Line="8" Column="41" />
+      <File FileName="InterestCalculatorDemo/Demo/Program.cs" Line="8" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

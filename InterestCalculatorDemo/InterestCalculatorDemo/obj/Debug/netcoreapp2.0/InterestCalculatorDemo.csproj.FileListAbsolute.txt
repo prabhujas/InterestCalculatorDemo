@@ -9,3 +9,6 @@
 /Users/rahulyarlagadda/Documents/Code/InterestCalculatorDemo/InterestCalculatorDemo/InterestCalculatorDemo/obj/Debug/netcoreapp2.0/InterestCalculatorDemo.AssemblyInfo.cs
 /Users/rahulyarlagadda/Documents/Code/InterestCalculatorDemo/InterestCalculatorDemo/InterestCalculatorDemo/obj/Debug/netcoreapp2.0/InterestCalculatorDemo.dll
 /Users/rahulyarlagadda/Documents/Code/InterestCalculatorDemo/InterestCalculatorDemo/InterestCalculatorDemo/obj/Debug/netcoreapp2.0/InterestCalculatorDemo.pdb
+/Users/rahulyarlagadda/Documents/Code/InterestCalculatorDemo/InterestCalculatorDemo/InterestCalculatorDemo/bin/Debug/netcoreapp2.0/nunit.engine.netstandard.dll
+/Users/rahulyarlagadda/Documents/Code/InterestCalculatorDemo/InterestCalculatorDemo/InterestCalculatorDemo/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.dll
+/Users/rahulyarlagadda/Documents/Code/InterestCalculatorDemo/InterestCalculatorDemo/InterestCalculatorDemo/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.pdb
