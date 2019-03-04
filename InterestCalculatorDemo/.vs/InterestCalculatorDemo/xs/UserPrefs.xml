@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{B6824009-B17A-4424-B6E2-79CA8E290D39}|Default">
+  <MonoDevelop.Ide.ItemProperties.InterestCalculatorDemo PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InterestCalculatorDemo/Program.cs">
+    <Files>
+      <File FileName="InterestCalculatorDemo/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
